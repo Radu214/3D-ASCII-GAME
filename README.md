@@ -3,9 +3,9 @@
 This is a 3D ASCII-based game where you navigate through a randomly generated maze using simple keyboard controls. The game renders a first-person perspective of the maze using ASCII characters.
 
 ## Screenshots
-    ![Picture 1](Picture1)
+    ![Picture 1](Picture1.png)
 
-    ![Picture 2](Picture2)
+    ![Picture 2](Picture2.png)
 
 
 ## Features
