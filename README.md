@@ -2,12 +2,6 @@
 
 This is a 3D ASCII-based game where you navigate through a randomly generated maze using simple keyboard controls. The game renders a first-person perspective of the maze using ASCII characters.
 
-## Screenshots
-	![Picture1](https://github.com/user-attachments/assets/246d14f6-7a37-45d0-8d8c-dc3cc7c70a5e)
-
-	![Picture2](https://github.com/user-attachments/assets/a1ae1b5d-768a-4d22-96e0-568e7dbac1d9)
-
-
 ## Features
 
 - **Random Maze Generation**: Every time you play, the maze is randomly generated, providing a new experience each time. Additionally, you can regenerate the maze layout while playing.
